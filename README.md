@@ -1,2 +1,2 @@
 # docs
-documentations for BQR
+Contains useful documentations and informations about Blockchain-Quantum-Reactor(BQR)
